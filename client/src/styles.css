@@ -1,9 +1,9 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #f8fafc;
+    background-color: #111213;
     margin: 0;
     padding: 0;
-    color: #1e293b;
+    color: #92a2ba;
   }
   
   .page-title {
@@ -17,7 +17,7 @@ body {
     max-width: 600px;
     margin: 30px auto;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #110808;
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.08);
   }
@@ -25,7 +25,7 @@ body {
   .input-box {
     width: 100%;
     padding: 10px;
-    border: 1px solid #cbd5e1;
+    border: 1px solid #04070a;
     border-radius: 5px;
     font-size: 16px;
   }
@@ -42,7 +42,7 @@ body {
     padding: 10px;
     border: none;
     border-radius: 5px;
-    color: white;
+    color: rgb(21, 13, 13);
     font-weight: 600;
     cursor: pointer;
     transition: background 0.3s ease;
@@ -57,7 +57,7 @@ body {
     margin-top: 20px;
     padding: 15px;
     background-color: #2b5f93;
-    border: 1px solid #cbd5e1;
+    border: 1px solid #0a0d11;
     border-radius: 8px;
     white-space: pre-wrap;
   }
