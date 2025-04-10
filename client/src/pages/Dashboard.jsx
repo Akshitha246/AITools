@@ -15,7 +15,7 @@ export default function Dashboard() {
       </aside>
 
       <main className="dashboard-main">
-        <h1>Dashboard</h1>
+        <h1>Retain More - Stress Less</h1>
         <p className="subtitle">Track your progress and upcoming reviews</p>
 
         <div className="learning-section">
